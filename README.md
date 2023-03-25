@@ -2,5 +2,5 @@
 
 <h3>Conheça mais sobre mim:</h3>
 
-- 👀 Estou interresado em Python e Data Science
-- 🌱 Atualmente estou aprendendo mais sobre Python e suas bibliotecas
+- 👀 Estou interresado em Python e desenvolvimento Mobile em geral
+- 🌱 Atualmente estou aprendendo mais sobre Python e algumas outras tecnologias
