@@ -6,11 +6,9 @@
 
 ![Hanatiel Vargas Github Stats](https://github-readme-stats.vercel.app/api?username=HanatielVargas&theme=transparent)
 
-
 ***
-<br>
 
-## Tecnologias que uso:
+### Tecnologias que uso:
 
 <div>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
@@ -18,7 +16,7 @@
 
 <br>
 
-## Mas também conheço um pouco de outras:
+### Mas também conheço um pouco de outras:
 
 <div>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></img>
@@ -27,7 +25,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 </div>
 
-<br>
+***
 
 ### Sobre mim:
 
